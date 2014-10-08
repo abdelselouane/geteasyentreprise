@@ -1,0 +1,299 @@
+/* *************
+   MOTIVE COLORS
+   ************* */
+a {
+  color: #2b8be9;
+}
+a.grey:hover,
+a.grey:focus {
+  color: #2b8be9;
+}
+.breadcrumb > li + li:before {
+  color: #2b8be9;
+}
+.breadcrumb > li a:hover,
+.breadcrumb > li a:focus {
+  color: #2b8be9;
+}
+h1 a:hover,
+.h1 a:hover,
+h2 a:hover,
+.h2 a:hover,
+h3 a:hover,
+.h3 a:hover,
+h4 a:hover,
+.h4 a:hover,
+h5 a:hover,
+.h5 a:hover,
+h6 a:hover,
+.h6 a:hover,
+h1 a:focus,
+.h1 a:focus,
+h2 a:focus,
+.h2 a:focus,
+h3 a:focus,
+.h3 a:focus,
+h4 a:focus,
+.h4 a:focus,
+h5 a:focus,
+.h5 a:focus,
+h6 a:focus,
+.h6 a:focus,
+h1 a:active,
+.h1 a:active,
+h2 a:active,
+.h2 a:active,
+h3 a:active,
+.h3 a:active,
+h4 a:active,
+.h4 a:active,
+h5 a:active,
+.h5 a:active,
+h6 a:active,
+.h6 a:active {
+  color: #2b8be9;
+}
+/* *******
+   BUTTONS
+   ******* */
+.btn-link {
+  color: #2b8be9;
+}
+.btn-primary {
+  background-color: #2b8be9;
+  border-color: #2b8be9;
+}
+.bg3 .btn-primary:hover,
+.bg4 .btn-primary:hover,
+.media-section.darkbg .btn-primary:hover,
+.bg3 .btn-primary:focus,
+.bg4 .btn-primary:focus,
+.media-section.darkbg .btn-primary:focus,
+.bg3 .btn-primary:active,
+.bg4 .btn-primary:active,
+.media-section.darkbg .btn-primary:active,
+.bg3 .btn-primary.active,
+.bg4 .btn-primary.active,
+.media-section.darkbg .btn-primary.active {
+  color: #2b8be9;
+}
+.btn-default {
+  color: #2b8be9;
+}
+.open .dropdown-toggle.btn-primary {
+  color: #2b8be9;
+}
+.dropdown-menu > li a:hover,
+.dropdown-menu > li a:focus,
+.dropdown-menu > li a:active {
+  background-color: #2b8be9;
+}
+/* ******
+   INPUTS
+   ****** */
+.search-widget .btn:hover,
+.search-widget .btn:focus,
+.search-widget .btn:active {
+  color: #2b8be9;
+}
+/* **********
+   TYPOGRAPHY
+   ********** */
+.motive {
+  color: #2b8be9;
+}
+.ct-ribbon:before {
+  background: #2b8be9;
+}
+.ct-ribbon .ct-triangle {
+  border-color: transparent #2b8be9 transparent transparent;
+}
+/* *************
+   HEADER STYLES
+   ************* */
+header a:hover,
+header .btn-link:hover,
+header a:focus,
+header .btn-link:focus,
+header a:active,
+header .btn-link:active {
+  color: #2b8be9;
+}
+header a:hover i.fa,
+header .btn-link:hover i.fa,
+header a:focus i.fa,
+header .btn-link:focus i.fa,
+header a:active i.fa,
+header .btn-link:active i.fa {
+  color: #2b8be9;
+}
+body.header-color header {
+  background-color: #2b8be9;
+}
+body.header-color header a:hover,
+body.header-color header .btn-link:hover,
+body.header-color header a:focus,
+body.header-color header .btn-link:focus,
+body.header-color header a:active,
+body.header-color header .btn-link:active {
+  color: #87bef3;
+}
+body.header-color header a:hover i.fa,
+body.header-color header .btn-link:hover i.fa,
+body.header-color header a:focus i.fa,
+body.header-color header .btn-link:focus i.fa,
+body.header-color header a:active i.fa,
+body.header-color header .btn-link:active i.fa {
+  color: #87bef3;
+}
+/* *************
+   NAVBAR STYLES
+   ************* */
+body.navbar-sidebar .navbar-toggle:hover .icon-bar {
+  background-color: #2b8be9;
+}
+.navbar a:hover {
+  color: #2b8be9;
+}
+.header-search,
+.header-login {
+  background-color: #2b8be9;
+  background: rgba(43, 139, 233, 0.9);
+}
+#magic-line {
+  background: #2b8be9;
+}
+/* ********
+   SECTIONS
+   ******** */
+.bg4 {
+  background-color: #2b8be9;
+}
+/* **************
+   PROJECT SINGLE
+   ************** */
+.project-media-container .project-desc {
+  background-color: rgba(43, 139, 233, 0.8);
+}
+/* ****************
+    PROCESS CIRCLES
+    *************** */
+.ct-process .ct-process-right,
+.ct-process .ct-process-left {
+  background-color: #2b8be9;
+}
+.ct-process .ct-process-right:before {
+  border-color: transparent transparent transparent #2b8be9;
+}
+.ct-process .ct-process-left:before {
+  border-color: transparent #2b8be9 transparent transparent;
+}
+/* ====================== */
+/* ==== PROGRESS BAR ==== */
+.progress .progress-bar {
+  background: #2b8be9;
+}
+/* ***********
+   SERVICE BOX
+   *********** */
+.service-box.withhover:hover {
+  border-color: #2b8be9;
+  background-color: #2b8be9;
+}
+/* ******
+   FOOTER
+   ******* */
+footer.main-footer a {
+  color: #FFFFFF;
+}
+footer.main-footer a:hover {
+  color: #1571cc;
+}
+#backtoTop {
+  background-color: #2b8be9;
+}
+/* ********
+   ARTICLES
+   ******** */
+article .date .day {
+  color: #2b8be9;
+}
+article .date .month {
+  background-color: #2b8be9;
+}
+.commentList .reply-button:hover,
+.commentList .reply-button:focus {
+  color: #2b8be9;
+}
+/* **********
+   BLOCKQUOTE
+   ********** */
+blockquote.type1 {
+  background-color: #2b8be9;
+}
+blockquote.type2 footer cite {
+  color: #2b8be9;
+}
+/* ****
+   TABS
+   **** */
+.tabs-vertical > .nav-tabs li.active a:before,
+.tabs-horizontal > .nav-tabs li.active a:before {
+  background-color: #2b8be9;
+}
+/* ******
+   TABLES
+   ****** */
+.table > thead > tr > th {
+  background-color: #2b8be9;
+}
+/* **************
+   PROJECT IMAGES
+   ************** */
+.project-thumb:before {
+  background-color: #2b8be9;
+}
+.project-thumb .thumb-links .thumb-link:hover,
+.project-thumb .thumb-links .thumb-link:active,
+.project-thumb .thumb-links .thumb-link:focus {
+  color: #2b8be9;
+}
+/* ************
+   SQUARE ICONS
+   ************ */
+.square-icon-box:before {
+  border: 3px solid #2b8be9;
+}
+.square-icon-hover:hover .square-icon-box {
+  color: #ffffff;
+}
+.square-icon-hover:hover .square-icon-box:before {
+  background-color: #2b8be9;
+}
+/* ***********
+   PRICING BOX
+   *********** */
+.pricing .pricebox.motive {
+  background-color: #2b8be9;
+}
+/* ******************
+   THUMBNAIL SCROLLER
+   ****************** */
+.thumbnailScroller .jTscrollerNextButton:hover,
+.thumbnailScroller .jTscrollerPrevButton:hover {
+  background-color: #2b8be9;
+}
+/* **********
+   D3 SWIMMERS
+   ********** */
+.d3container {
+  background-color: #2b8be9;
+}
+/* *********
+   WORDPRESS
+   ********* */
+.widget .widget-inner ul > li a:hover,
+.widget .widget-inner ul > li a:focus,
+.widget .widget-inner ul > li a:active {
+  color: #2b8be9;
+}

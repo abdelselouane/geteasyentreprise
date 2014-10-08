@@ -1,0 +1,397 @@
+/* *************
+   MOTIVE COLORS
+   ************* */
+
+@motive: #2b8be9;
+
+a{
+  color: @motive;
+  &.grey:hover,
+  &.grey:focus{
+    color: @motive;
+  }
+}
+
+.breadcrumb{
+  > li{
+    +li:before{
+      color: @motive;
+    }
+    a:hover, a:focus{
+      color: @motive;
+    }
+  }
+}
+
+
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
+  a:hover, a:focus, a:active{
+    color: @motive;
+  }
+}
+
+/* *******
+   BUTTONS
+   ******* */
+
+.btn-link{
+  color: @motive;
+}
+
+.btn-primary{
+  background-color: @motive;
+  border-color: @motive;
+}
+
+.bg3, .bg4, .media-section.darkbg{
+  .btn-primary{
+    &:hover, &:focus, &:active, &.active{
+      color: @motive;
+    }
+  }
+}
+
+.btn-default{
+  color: @motive;
+}
+
+.open .dropdown-toggle.btn-primary{
+  color: @motive;
+}
+
+.dropdown-menu{
+  > li a{
+    &:hover, &:focus, &:active{
+      background-color: @motive;
+    }
+  }
+}
+
+/* ******
+   INPUTS
+   ****** */
+
+.search-widget{
+  .btn{
+    &:hover, &:focus, &:active{
+      color: @motive;
+    }
+  }
+}
+
+/* **********
+   TYPOGRAPHY
+   ********** */
+
+.motive{
+  color: @motive;
+}
+
+.ct-ribbon{
+  &:before{
+    background: @motive;
+  }
+  .ct-triangle{
+    border-color: transparent @motive transparent transparent;
+  }
+}
+
+/* *************
+   HEADER STYLES
+   ************* */
+
+header{
+  a, .btn-link{
+    &:hover, &:focus, &:active{
+      color: @motive;
+      & i.fa{
+        color: @motive;
+      }
+    }
+  }
+}
+
+body.header-color header{
+  background-color: @motive;
+  a, .btn-link{
+    &:hover, &:focus, &:active{
+      color: lighten(@motive, 20%);
+      & i.fa{
+        color: lighten(@motive, 20%);
+      }
+    }
+  }
+}
+
+/* *************
+   NAVBAR STYLES
+   ************* */
+
+body.navbar-sidebar{
+  .navbar-toggle{
+    &:hover .icon-bar{
+      background-color: @motive;
+    }
+  }
+}
+
+.navbar{
+  a{
+    &:hover{
+      color: @motive;
+    }
+  }
+}
+.colorize_bg(@color: @white, @alpha: 1) {
+  background: hsla(hue(@color), saturation(@color), lightness(@color), @alpha);
+}
+
+// SEARCH BAR AND BUTTON
+.header-search, .header-login{
+  background-color: @motive;
+  .colorize_bg(@motive, 0.9);
+}
+
+#magic-line {
+  background: @motive;
+}
+
+/* ********
+   SECTIONS
+   ******** */
+
+.bg4{
+  background-color: @motive;
+}
+
+/* **************
+   PROJECT SINGLE
+   ************** */
+
+.project-media-container{
+  .project-desc{
+    background-color: fade(@motive, 80%);
+  }
+}
+
+
+/* ****************
+    PROCESS CIRCLES
+    *************** */
+
+.ct-process{
+  .ct-process-right, .ct-process-left{
+    background-color: @motive;
+  }
+  .ct-process-right{
+    &:before{
+      border-color: transparent transparent transparent @motive;
+    }
+  }
+  .ct-process-left{
+    &:before{
+      border-color: transparent @motive transparent transparent;
+    }
+  }
+}
+
+/* ====================== */
+/* ==== PROGRESS BAR ==== */
+.progress{
+  .progress-bar{
+    background: @motive;
+  }
+}
+
+/* ***********
+   SERVICE BOX
+   *********** */
+
+.service-box{
+  &.withhover:hover{
+    border-color: @motive;
+    background-color: @motive;
+  }
+}
+
+
+/* ******
+   FOOTER
+   ******* */
+
+footer.main-footer{
+  a{
+    color: #FFFFFF;
+    &:hover{
+      color: darken(@motive, 10%);
+    }
+  }
+}
+
+#backtoTop{
+  background-color: @motive;
+}
+/* ********
+   ARTICLES
+   ******** */
+
+article, .widget ul > li article{
+  a{
+    color: @motive;
+  }
+  h4 a{
+    &:hover{
+      color: @motive;
+    }
+  }
+  .date{
+    .day{
+      color: @motive;
+    }
+    .month{
+      background-color: @motive;
+    }
+  }
+}
+
+.commentList{
+  .reply-button:hover,
+  .reply-button:focus{
+    color: @motive;
+  }
+}
+
+/* **********
+   BLOCKQUOTE
+   ********** */
+
+blockquote.type1{
+  background-color: @motive;
+}
+
+blockquote.type2{
+  footer{
+    cite{
+      color: @motive;
+    }
+  }
+}
+
+/* ****
+   TABS
+   **** */
+
+.tabs-vertical > .nav-tabs li.active a:before, .tabs-horizontal > .nav-tabs li.active a:before{
+  background-color: @motive;
+}
+
+/* ******
+   TABLES
+   ****** */
+
+.table{
+  > thead{
+    > tr{
+      > th{
+        background-color: @motive;
+      }
+    }
+  }
+}
+
+/* **************
+   PROJECT IMAGES
+   ************** */
+
+.project-thumb{
+  &:before{
+    background-color: @motive;
+  }
+  .thumb-links{
+    .thumb-link{
+      &:hover, &:active, &:focus{
+        color: @motive;
+      }
+    }
+  }
+}
+
+/* ************
+   SQUARE ICONS
+   ************ */
+
+.square-icon-box{
+  &:before{
+    border: 3px solid @motive;
+  }
+}
+.square-icon-hover:hover .square-icon-box{
+  color: #ffffff;
+  &:before{
+    background-color: @motive;
+  }
+}
+
+/* ***********
+   PRICING BOX
+   *********** */
+
+.pricing{
+  .pricebox{
+    &.motive{
+      background-color: @motive;
+    }
+  }
+}
+
+
+/* ******************
+   THUMBNAIL SCROLLER
+   ****************** */
+
+.thumbnailScroller .jTscrollerNextButton:hover,.thumbnailScroller .jTscrollerPrevButton:hover{background-color: @motive;}
+
+/* **********
+   D3 SWIMMERS
+   ********** */
+
+.d3container{
+  background-color: @motive;
+}
+
+
+/* ================= */
+/* === TIMELINE === */
+
+.vco-notouch .vco-slider .nav-previous:hover, .vco-notouch .vco-slider .nav-next:hover{
+  color: @motive;
+}
+
+.vco-timeline .vco-navigation .timenav .content .marker.active .line,
+.vco-timeline .vco-navigation .timenav .content .marker.active .dot,
+.vco-timeline .vco-navigation .timenav-background .timenav-line,
+.vco-timeline .vco-navigation .timenav .content .marker.active .line .event-line,
+.vco-timeline .vco-navigation .timenav .content .marker .line .event-line{
+  background: @motive;
+}
+
+.vco-notouch .vco-slider .slider-item .content .content-container .media .media-container .wikipedia h4 a:hover{
+  color: @motive;
+}
+
+/* *********
+   WORDPRESS
+   ********* */
+
+.widget{
+  ul{
+    > li{
+      a{
+        &:hover, &:focus, &:active{
+          color: @motive;
+        }
+      }
+    }
+  }
+}
