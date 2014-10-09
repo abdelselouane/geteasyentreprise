@@ -49,10 +49,10 @@ $debug = false; //if problems occur, set to true to view debug messages
  **/
 
 /**/
- /*$mail->Host = "geteasyentreprise.com"; // sets the SMTP server
- /*$mail->Username = "support@geteasyentreprise.com"; // SMTP account username
- /*$mail->Password = "Support1985007"; // SMTP account password
- /*$mail->SMTPAuth = true; // enable SMTP authentication - true if username and password required
+ $mail->Host = "geteasyentreprise.com"; // sets the SMTP server
+ $mail->Username = "support@geteasyentreprise.com"; // SMTP account username
+ $mail->Password = "Support1985007"; // SMTP account password
+ $mail->SMTPAuth = true; // enable SMTP authentication - true if username and password required
  /* $mail->Port = 587; // set the SMTP port (usually 587, or 465 when SSL)
  /* $mail->IsSMTP(); uncomment it to enable smtp
  /* $mail->SMTPDebug = $debug ? 2 : 0; // debug messages - set debug to false on production!
