@@ -1284,6 +1284,9 @@
 			$('.googlemap').each(function () {
 				var atcenter = "";
 				var $this = $(this);
+				
+				console.log($this);
+				
 				var location = $this.data("location");
 				var zoom = $this.data("zoom");
 
@@ -1297,7 +1300,7 @@
 
 					$this.gmap3({
 						marker: {
-							//latLng: [40.616439, -74.035540],
+							latLng: [-9.1142756, 38.7630035],
 							address: location, options: {
 								//visible: false
 								icon: new google.maps.MarkerImage("assets/images/marker.png")
@@ -1306,16 +1309,17 @@
 							}
 						}, map: {
 							options: {
-								//maxZoom:11,
+								//
+								maxZoom:17,
 								zoom: zoom,
 								mapTypeId: google.maps.MapTypeId.ROADMAP, // ('ROADMAP', 'SATELLITE', 'HYBRID','TERRAIN');
-								scrollwheel: false,
-								disableDoubleClickZoom: false,
-								draggable: false, //disableDefaultUI: true,
+								scrollwheel: true,
+								disableDoubleClickZoom: true,
+								draggable: true, //disableDefaultUI: true,
 								mapTypeControlOptions: {
 									//mapTypeIds: [google.maps.MapTypeId.ROADMAP, google.maps.MapTypeId.HYBRID],
 									//style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
-									//position: google.maps.ControlPosition.RIGHT_CENTER
+									//position: google.maps.ControlPosition.RIGHT_CENTER,
 									mapTypeIds: []
 								},
 								styles: [{"featureType": "landscape", "stylers": [{"saturation": -100}, {"lightness": 65}, {"visibility": "on"}]},
@@ -1335,7 +1339,8 @@
 								}
 							}
 						}, overlay: {
-							//latLng: [40.616439, -74.035540],
+							//
+							latLng: [-9.1142756, 38.7630035],
 							address: location, options: {
 								//content: '<div class="customMarker"><div class="address">' + location + '</div><div class="marker"><img src="assets/images/custom-marker.png"></div></div>',
 								offset: {
@@ -1348,7 +1353,8 @@
 
 					// center on resize
 					google.maps.event.addDomListener(window, "resize", function () {
-						//var userLocation = new google.maps.LatLng(53.8018,-1.553);
+						//
+						var userLocation = new google.maps.LatLng(-9.1142756, 38.7630035);
 						setTimeout(function () {
 							$this.gmap3('get').setCenter(atcenter);
 							$this.gmap3('get').panBy(0, offset);
