@@ -4,16 +4,16 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head lang="fr">
     <meta charset="UTF-8">
-   <meta name="keywords" content="geteasy entreprise, geteasy.fr, geteasyentreprise, www.geteasyentreprise.com, geteasy, geteasy france, entreprise, get easy, geteasygroup, geteasy group, geteasy france, get easy france, geteasy office, Notre Siège,  easyget, gettracker, geolocalisateur, vous, plus, bonus, reseau, marketing, marketing du reseau">
-    <meta name="description" content="Dans un monde de plus en plus global, ou en renouvelle sans cesse l'évolution des besoins qui nécessitent des solutions appropriées. Ainsi est né GetEasy, une entreprise qui parie fort sur l'innovation, mais surtout d'être toujours la solution de travail.">
+   <meta name="keywords" content="geteasy entreprise, 404, erreur, Administrateur, NOUS AVONS UN PROBLÈME ICI, marketing, marketing du reseau">
+    <meta name="description" content="Cette page est destiné a toute ERREUR produite au sein du site.">
     
     <meta name="author" content="geteasy entreprise">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Notre Siège | Geteasy Entreprise | Equipe de Geteasy Group</title>
-
-	<link rel="alternate" href="http://www.geteasyentreprise.com/fr/office.html" hreflang="fr-fr" />
+    <title>Erreur | Geteasy Entreprise | Equipe de Geteasy Group</title>
+	
+	<link rel="alternate" href="http://www.geteasyentreprise.com/fr/contact.html" hreflang="fr-fr" />
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
@@ -21,8 +21,8 @@
 
 
     <!--[if lt IE 9]>
-    <script src="assets/bootstrap/js/html5shiv.min.js"></script>
-    <script src="assets/bootstrap/js/respond.min.js"></script>
+    <script src=".fr/assets/bootstrap/js/html5shiv.min.js"></script>
+    <script src=".fr/assets/bootstrap/js/respond.min.js"></script>
     <![endif]-->
 
     <script src="assets/js/modernizr.custom.js"></script>
@@ -46,7 +46,7 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
                 <div class="text-wrapper"><i class="fa fa-phone-square fa-fw"></i> +33 683 94 94 02</div>
                 <div class="text-wrapper"><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:support@geteasyentreprise.com">support@geteasyentreprise.com</a></div>
                 <div class="text-wrapper">
-                    <i class="fa fa-globe fa-fw"></i>
+                    <!--i class="fa fa-globe fa-fw"></i>
                     <!-- Single button -->
                     <!--div class="btn-group">
                         <a class="btn btn-link dropdown-toggle" data-toggle="dropdown">English <span class="caret"></span></a>
@@ -64,9 +64,9 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
                 <ul class="list-inline list-socials">
                     <li><div class="text-wrapper"><a href="https://www.facebook.com/TeamGeteasyFrance" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook fa-fw"></i></a></div></li>
                     
-                    <li><div class="text-wrapper"><a href="https://twitter.com/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
+                    <!--li><div class="text-wrapper"><a href="https://twitter.com/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
                     
-                    <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li>
+                    <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li-->
                 </ul>
             </div>
         </div>
@@ -78,7 +78,7 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
 <div class="container">
 <!-- Brand and toggle get grouped for better mobile display -->
 <div class="navbar-header hidden-xs">
-    <a class="navbar-brand" href="index.html"><img src="assets/images/content/logo.png" alt="Geteasy Logo"/></a>
+    <a class="navbar-brand" href="index.html"><img src="assets/images/content/logo.png" alt="Corpress Logo"/></a>
 </div>
 
 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -87,9 +87,6 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
 <ul class="nav navbar-nav navbar-right">
 <li class="dropdown active">
     <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Accueil</a>
-</li>
-<li class="dropdown">
-    <a href="remuneration.html" class="dropdown-toggle" data-toggle="dropdown">Rémuneration</a>
 </li>
 <li class="dropdown">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown">GetEasy <i class="fa fa-fw fa-angle-down"></i></a>
@@ -115,7 +112,7 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
                 </div>
                 <div class="row nav-bottom">
                     <div class="col-md-12">
-                        <span class="btm-sec"><img src="assets/images/content/logosmall.png" alt="geteasy logo" about="Geteasy"></span>
+                        <span class="btm-sec"><img src="assets/images/content/logosmall.png" alt="geteasy small logo" about="Geteasy"></span>
                         <span class="btm-sec">Information Fondamental</span>
                     </div>
                 </div>
@@ -189,7 +186,7 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
 <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header visible-xs">
-        <a class="navbar-brand" href="index.html"><img src="assets/images/content/logo.png" alt="Corpress Logo"/></a>
+        <a class="navbar-brand" href="index.html"><img src="assets/images/content/logo.png" alt="geteasy Logo"/></a>
         <button type="button" class="navbar-toggle" id="sidebar-toggle">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
@@ -202,200 +199,52 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
 
 <!-- END -->
 
-<section class="media-section darkbg html5" data-height="220" data-type="video" data-fallback-image="assets/images/content/parallax6.jpg">
-    <div class="video">
-        <!-- in order for video to be muted you must add  &amp;api=1&amp;player_id=vimeoplayer1 to the end of the video src
-            If you have more than one video, make sure that player_id and id have dif names on each video
-    -->
-        <video id="video1" muted loop autoplay="autoplay" preload="auto"
-               poster='assets/images/content/teamvideo.jpg'>
-            <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.mp4' type='video/mp4' />
-            <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.webm' type='video/webm' />
-        </video>
-    </div>
+<section class="media-section darkbg" data-stellar-background-ratio="0.5" data-height="220" data-type="parallax" data-image="assets/images/content/parallax10.jpg" data-image-mobile="assets/images/content/parallax10-mobile.jpg">
 
-    <div class="display-table">
-        <div class="inner bg5">
-            <div class="text-center">
-                <h1 class="uppercase page-header no-margin">Notre Siège</h1>
-            </div>
+    <div class="inner">
+        <div class="text-center">
+            <h1 class="uppercase no-margin">OOOOPS!</h1>
         </div>
     </div>
 </section>
-
 
 <div class="container"></div>
 
-<!--section class="darkbg section">
+<section class="container section-top text-center">
 
-    <div class="container">
-        <div class="row">
-            <h1>GetEasy Group</h1>
-            <!--div class="col-sm-12">
-                <div class="flexslider paging-left no-margin" data-smoothheight="false">
-                    <ul class="slides">
-                        <li>
-                            <img src="assets/images/content/office-slider-1.jpg" alt="image">
-                        </li>
-                        <li>
-                            <img src="assets/images/content/office-slider-2.jpg" alt="image">
-                        </li>
-                        <li>
-                            <img src="assets/images/content/office-slider-3.jpg" alt="image">
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section-->
-
-<div class="container section-bottom">
     <div class="row">
-        <h1>GetEasy Group</h1>
+        <h1 class="uppercase">Cette page est destiné a toute ERREUR produite au sein du site.</h1>
+        <p class="motive uppercase">Utilisez LES LIENS ci-desous pour revenir sur le site ou signaler ce PROBLÈME, un de nos membres vous contactera prochainment pour plus d'expliation.</p>
+    </div>
+
+</section>
+
+<div class="container"></div>
+
+<section class="container ">
+    <div class="row section">
         <div class="col-sm-6">
-            <p>Dans un monde de plus en plus global, ou en renouvelle sans cesse l'évolution des besoins qui nécessitent des solutions appropriées. Ainsi est né GetEasy, une entreprise qui parie fort sur l'innovation, mais surtout d'être toujours la solution de travail!</p>
-            <p>Nous dialoguons avec les meilleures sociétés de développement, de la technologie, et de la production de différents secteurs d'activité. Nous nous sommes spécialisés dans la vente de produits et services qui se démarquent sur le marché mondial avec le concept de « la mise à disposition » la location.</p>
+           <span class="text404">
+               404
+               <small>PAGE N'EST PAS TROUVÉE</small>
+           </span>
         </div>
         <div class="col-sm-6">
-            <p>Simple et efficace, fournir des prestations ou des produits, c'est garantir la sécurité d'un excellent service. Le client sait ce qu'il veut, nous faisons le reste.<br>
+            <h1 class="uppercase hr-left">Administrateur,<br> NOUS AVONS UN PROBLÈME ICI.</h1>
+            <p>
+                Il semble que la page que vous cherchez est introuvable. Il n'a probablement jamais existé ou que vous avez utilisé un lien mort..
             </p>
-            <p>Nos produits sont dans le domaine de la localisation des véhicules, des personnes, des animaux, des marchandises, des conteneurs, parmi beaucoup d'autres possibilités.</p>
-        </div>
-    </div>
-</div>
-
-<section class="media-section darkbg" data-stellar-background-ratio="0.2" data-height="500" data-type="parallax" data-image="assets/images/content/portfolio/sidebarportfolio19.jpg" data-image-mobile="assets/images/content/portfolio/sidebarportfolio19small.jpg">
-    <div class="inner">
-        <div class="container">
-            <h2 class="uppercase hr-mid text-center"><span class="motive">Information en <span style="color: orange;">temps réel</span> pour votre <span style="color: orange;">sécurité</span></span></h2>
-            <div class="row">
-                <div class="col-md-3 animated" data-fx="flipInX">
-                    <img alt="Information" src="assets/images/content/plentyoptions.jpg">
-                    <h4 class="text-center uppercase"><span class="motive">Information en</span> <span style="color: orange;">temps réel</span></h4>
-                </div>
-                <div class="col-md-3 animated" data-fx="flipInY">
-                    <img alt="Security" src="assets/images/content/plentyoptions2.jpg">
-                     <h4 class="text-center uppercase"><span class="motive">Haut niveau de</span> <span style="color: orange;">sécurité</span></h4>
-                </div>
-                <div class="col-md-3 animated" data-fx="flipInX">
-                    <img alt="Support" src="assets/images/content/plentyoptions3.jpg">
-                     <h4 class="text-center uppercase"><span class="motive">Support</span><span style="color: orange;">24/7</span></h4>
-                </div>
-                <div class="col-md-3 animated" data-fx="flipInY">
-                    <img alt="Professional" src="assets/images/content/plentyoptions4.jpg">
-                     <h4 class="text-center uppercase"><span class="motive">Espace</span><span style="color: orange;"> Office</span></h4>
-                </div>
-            </div>
+            <a href="contact.html">Nous le signaler </a>
+            <br>
+            <br>
+            <a href="index.html">Aller à la page d'accueil</a>
         </div>
     </div>
 </section>
-<section class="call-box bg5">
-    <div class="inner">
-        <div class="container">
-            <div class="row">
-                <div class="table-cell col-md-7">
-                    <h2 class="uppercase no-margin">
-                         Pour plus d'infomations!
-                    </h2>
-                    <p style="color: orange;">Un de nos membres vous contactera prochainement.</p>
-                </div>
-                <div class="table-cell col-md-5">
-                    <div class="successMessage alert alert-success" style="display: none">
-                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                        Merci Beacoup!<br>
-                        
-                    </div>
-                    <div class="errorMessage alert alert-danger" style="display: none">
-                        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                        Ups! Une erreur s'est produite. Essayez encore une fois.
-                    </div>
-
-                    <form class="form-inline validateIt" role="form" action="assets/form/send.php"
-                          method="post" data-email-subject="Newsletter Form" data-show-errors="true"
-                          data-hide-form="true">
-
-                        <div class="input-group input-group-lg form-group-float-label">
-                            <input id="newsletter2" type="email" name="field[]" required class="form-control" placeholder="Email">
-                            <label for="newsletter2">Email</label>
-                            <span class="input-group-btn">
-                                <button class="btn btn-default" type="submit">Valider</button>
-                            </span>
-                            <input type="hidden" name="msg_subject" value="New Newsletter subscription">
-                        </div>
-
-                    </form>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<div class="container section">
-    <div class="row">
-        <div class="col-sm-8">
-            <div class="googlemap" data-location="Rua Cidade de Bissau, 1800 Lisboa, Portugal" data-height="370" data-offset="0" data-zoom="76"></div>
-        </div>
-        <div class="col-sm-4">
-            <ul class="icon-list list-unstyled vcard">
-            	 <li>
-                    <div class="display-table">
-                                <span class="table-cell">
-                                    <i class="fa fa-institution fa-lg"></i>
-                                </span>
-                                <span class="table-cell motive">
-                                	<span class="fn org" >Geteasy</span> Entreprise Team
-                                </span>
-                    </div>
-                </li>
-                <li>
-                    <div class="display-table">
-                                <span class="table-cell">
-                                    <i class="fa fa-map-marker fa-lg"></i>
-                                </span>
-                                <span class="table-cell">
-                                    <a class="url" href="https://www.google.com/maps/place/Rua+Cidade+de+Bissau,+1800+Lisboa,+Portugal/@38.7630035,-9.1142756,17z/data=!3m1!4b1!4m2!3m1!1s0xd193233cd0f89d7:0x98317c8712121609" target="_blank"><span class="street-address">Rua Cidade de Bissau, n ° 51 A / B</span>.<br> Office de <span class="locality">Lisboa</span></a>
-                                </span>
-                    </div>
-                </li>
-                <li>
-                    <div class="display-table">
-                                <span class="table-cell">
-                                    <i class="fa fa-phone fa-lg"></i>
-                                </span>
-                                <span class="table-cell">
-                                    <img src="assets/entreprise/flags/france.gif" alt="geteasy france flag" width="25" height="20"> <span class="tel">+33 683 94 94 02</span>
-                                </span>
-                    </div>
-                </li>
-                <li>
-                    <div class="display-table">
-                                <span class="table-cell">
-                                    <i class="fa fa-globe fa-lg"></i>
-                                </span>
-                                <span class="table-cell">
-                                    <a class="url" href="http://www.geteasyentreprise.com">www.geteasyentreprise.com</a>
-                                </span>
-                    </div>
-                </li>
-                <li>
-                    <div class="display-table">
-                                <span class="table-cell">
-                                    <i class="fa fa-envelope fa-lg"></i>
-                                </span>
-                                <span class="table-cell">
-                                    <a class="email url" href="mailto:support@geteasyentreprise.com">support@geteasyentreprise.com</a>
-                                </span>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-
+   
 <div class="container"></div>
     
-<!--div class="bg3">
+<div class="bg3">
     <div class="container">
         <div class="row"><h2 class="uppercase text-center gloria">Nos Membres</h2></div>
         <div class="row">
@@ -431,54 +280,32 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
             </div>
         </div>
     </div>
-</div-->
+</div>
 <footer class="main-footer">
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-md-3">
-            	<div class="vcard" >
-	                <img class="logo" src="assets/images/content/logofooter.png" alt="logo geteasy"><br><br>
-	                <p>
-	                   <span class="fn org" > GetEasy </span>Siège de Macao:
-	                </p>
-	                <div class="adr" >
-	                	<p>
-		                    <span class="street-address">Av Praia Grande, 599<br>8 andar D</span> - <span class="locality">Macau</span><br>
-		                    <span class="footer-contacts">
-		                        <i class="fa fa-fw fa-phone motive"></i> <span class="tel">+853 8294-2489</span><br>
-		                    </span>
-	                   	</p>
-	                </div>
-	                <span class="geo" style="display: none;">
-					   <span class="latitude">
-					      <span class="value-title" title="37.774929" ></span>
-					   </span>
-					   <span class="longitude">
-					      <span class="value-title" title="-122.419416"></span>
-					   </span>
-					 </span>
-               	</div>
-                <div class="vcard">
-	                <p>
-	                    <span class="fn org" > GetEasy </span>Bureau de Lisbonne:
-	                </p>
-	                <div class="adr" >
-		                <p>
-		                    <span class="street-address">Rua Cidade de Bissau,<br>n ° 51 A / B. </span>- <span class="locality">Lisbonne</span><br>
-		                    <span class="footer-contacts">
-		                        <i class="fa fa-fw fa-phone motive"></i> <span class="tel">351 218 510 676</span><br>
-		                    </span>
-		                </p>
-	                </div>
-	                <span class="geo" style="display: none;">
-					   <span class="latitude">
-					      <span class="value-title" title="38.7630035" ></span>
-					   </span>
-					   <span class="longitude">
-					      <span class="value-title" title="-9.1142756"></span>
-					   </span>
-					 </span>
-	             </div>
+                <img src="assets/images/content/logofooter.png" alt="Corpress"><br><br>
+                <p>
+                    GetEasy Siège de Macao:
+                </p>
+                <p>
+                    Av Praia Grande, 599<br>
+                    8 andar D - Macau<br>
+                    <span class="footer-contacts">
+                        <i class="fa fa-fw fa-phone motive"></i> +853 8294-2489<br>
+                    </span>
+                </p>
+                 <p>
+                    Bureau de Lisbonne:
+                </p>
+                <p>
+                    Rua Cidade de Bissau,<br>
+                    n ° 51 A / B. <br>
+                    <span class="footer-contacts">
+                        <i class="fa fa-fw fa-phone motive"></i> 351 218 510 676<br>
+                    </span>
+                </p>
             </div>
             <div class="col-sm-6 col-md-3">
                 <h4 class="uppercase">En Savoir Plus</h4>
@@ -503,7 +330,7 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
             </div>
             <div class="clearfix visible-sm"></div>
             <div class="col-sm-6 col-md-3">
-                <h4 class="uppercase">Besoin D'informations</h4>
+                <!--h4 class="uppercase">Besoin D'informations</h4>
                 <div class="successMessage alert alert-success" style="display: none">
                     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
                     Merci Beaucoup!
@@ -518,12 +345,12 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
                     <label for="newsletter">Email</label>
                     <button class="button-arrow" type="submit" data-toggle="tooltip" data-placement="bottom" title="Don't worry, we do not spam!"><i class="fa fa-fw fa-angle-double-right"></i> </button>
                 </form>
-                <br>
+                <br-->
                 <div class="widget">
                     <div class="widget-inner">
                         <h4 class="uppercase">Pret Pour demarrer</h4>
                         <div class="tagcloud">
-                            <a href="https://cadastro.officegeteasygroup.net/adamse77" target="_blank" alt="geteasy sponseur" class="btn btn-default" >Joindre notre équipe</a>
+                            <a href="http://www.cadastro.officegeteasy.com/adamse77" target="_blank" alt="geteasy sponseur" class="btn btn-default" >Joindre notre équipe</a>
                         </div>
                     </div>
                 </div>
@@ -557,11 +384,11 @@ _atrk_opts = { atrk_acct:"TsMdk1a0CM00aE", domain:"geteasyentreprise.com",dynami
             <div class="col-sm-6 text-right">
                 <ul class="list-inline">
                     
-                    <li><div class="text-wrapper"><a href="https://www.facebook.com/" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook"><i class="fa fa-facebook fa-fw"></i></a></div></li>
+                    <li><div class="text-wrapper"><a href="https://www.facebook.com/TeamGeteasyFrance" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook"><i class="fa fa-facebook fa-fw"></i></a></div></li>
                     
-                    <li><div class="text-wrapper"><a href="https://twitter.com/" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
+                    <!--li><div class="text-wrapper"><a href="https://twitter.com/" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
                     
-                    <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li>
+                    <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li-->
                     
                 </ul>
             </div>
